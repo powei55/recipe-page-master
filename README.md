@@ -38,10 +38,6 @@
 
 ![WM-Screenshots-20230113055139](https://user-images.githubusercontent.com/94329479/212240458-1771466b-5b6b-46d6-88a3-2a257877b403.png)
 
-
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 - You can find the demo on netlify
 - i learned more about markups and how to place them appropiately, i also learned how to use material icons in project.
 - i improved greatly on how to use to flexbox, and how to style list items with psedo classes.
