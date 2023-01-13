@@ -25,7 +25,6 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
@@ -35,7 +34,11 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![WM-Screenshots-20230113055023](https://user-images.githubusercontent.com/94329479/212240416-08ad8ec2-cf7d-46eb-9826-97c37e3e70fe.png)
+
+![WM-Screenshots-20230113055139](https://user-images.githubusercontent.com/94329479/212240458-1771466b-5b6b-46d6-88a3-2a257877b403.png)
+
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -57,7 +60,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/powei55/recipe-page-master
 
 # Install dependencies
 $ npm install
