@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{profound-biscuit-9f3b2e.netlify.app}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{devchallenges.io/solutions/QHvo7UsouIAruI20ud0W}">
       Solution
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-challenge}">
+    <a href="https://{//devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht}">
       Challenge
     </a>
   </h3>
